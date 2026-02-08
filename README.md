@@ -64,13 +64,13 @@ The frontend will start on `http://localhost:3000`
 
 ## Features
 
-- ✅ Create, Read, Update, Delete (CRUD) operations
-- ✅ Mark todos as complete/incomplete
-- ✅ Responsive UI
-- ✅ RESTful API
-- ✅ In-memory H2 database
+- Create, Read, Update, Delete (CRUD) operations
+- Mark todos as complete/incomplete
+- Responsive UI
+- RESTful API
+- In-memory H2 database
 
-## Future Enhancements
+## Planning to do future Enhancements (Need to work on them)
 
 - User authentication
 - Categories/Tags
@@ -79,6 +79,3 @@ The frontend will start on `http://localhost:3000`
 - PostgreSQL database
 - Docker containerization
 
-## License
-
-MIT
