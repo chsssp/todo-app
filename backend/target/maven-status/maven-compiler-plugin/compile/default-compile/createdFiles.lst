@@ -1,0 +1,7 @@
+com/todoapp/config/CorsConfig.class
+com/todoapp/model/Todo.class
+com/todoapp/TodoApplication.class
+com/todoapp/controller/TodoController.class
+com/todoapp/service/TodoService.class
+com/todoapp/repository/TodoRepository.class
+com/todoapp/model/Todo$Priority.class

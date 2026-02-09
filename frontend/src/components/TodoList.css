@@ -1,0 +1,53 @@
+.todo-list {
+  margin-top: 1rem;
+}
+
+.todo-count {
+  margin-bottom: 1rem;
+  font-size: 0.9rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  opacity: 0.7;
+}
+
+.dark-mode .todo-count {
+  color: rgba(255, 255, 255, 0.7);
+}
+
+.light-mode .todo-count {
+  color: #555;
+}
+
+.empty-state {
+  text-align: center;
+  padding: 4rem 2rem;
+  background: rgba(0, 0, 0, 0.2);
+  backdrop-filter: blur(10px);
+  border-radius: 12px;
+  border: 1px solid rgba(255, 255, 255, 0.1);
+}
+
+.light-mode .empty-state {
+  background: rgba(255, 255, 255, 0.7);
+  border-color: rgba(0, 0, 0, 0.1);
+}
+
+.empty-icon {
+  font-size: 4rem;
+  margin-bottom: 1rem;
+  opacity: 0.5;
+}
+
+.empty-state p {
+  font-size: 1.1rem;
+  margin: 0;
+}
+
+.dark-mode .empty-state p {
+  color: rgba(255, 255, 255, 0.7);
+}
+
+.light-mode .empty-state p {
+  color: #555;
+}
